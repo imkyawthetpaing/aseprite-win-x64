@@ -1,0 +1,1 @@
+# aseprite-win-x64
